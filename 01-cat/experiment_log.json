@@ -1,0 +1,110 @@
+[
+    {
+        "timestamp": "2026-07-25 17:16:09",
+        "filename": "GenerateResult_cat/fusion_animal_0.4_human_0.4.jpg",
+        "animal_group": "cat",
+        "seed": 20260731,
+        "weights": {
+            "animal_adapter": 0.4,
+            "human_adapter": 0.4
+        },
+        "prompt": "anthropomorphic portrait of the specific person from the human reference image, exact match to pose from the human reference image, exact match to facial identity, plain color background, seamlessly blending facial features, head traits, and surface textures from the second animal reference image onto the head and hair, hybrid creature, kemonomimi, high quality, photographic realism",
+        "negative_prompt": "separate animal, live animal, animal on arm, companion animal, extreme close-up, cropped, cut off head, zoomed in, out of frame, different face, changed identity, missing animal traits, wrong animal color, deformed face, bad anatomy, blurry, low quality, color distortion"
+    },
+    {
+        "timestamp": "2026-07-25 17:16:16",
+        "filename": "GenerateResult_cat/fusion_animal_0.4_human_0.5.jpg",
+        "animal_group": "cat",
+        "seed": 20260731,
+        "weights": {
+            "animal_adapter": 0.4,
+            "human_adapter": 0.5
+        },
+        "prompt": "anthropomorphic portrait of the specific person from the human reference image, exact match to pose from the human reference image, exact match to facial identity, plain color background, seamlessly blending facial features, head traits, and surface textures from the second animal reference image onto the head and hair, hybrid creature, kemonomimi, high quality, photographic realism",
+        "negative_prompt": "separate animal, live animal, animal on arm, companion animal, extreme close-up, cropped, cut off head, zoomed in, out of frame, different face, changed identity, missing animal traits, wrong animal color, deformed face, bad anatomy, blurry, low quality, color distortion"
+    },
+    {
+        "timestamp": "2026-07-25 17:16:23",
+        "filename": "GenerateResult_cat/fusion_animal_0.4_human_0.6.jpg",
+        "animal_group": "cat",
+        "seed": 20260731,
+        "weights": {
+            "animal_adapter": 0.4,
+            "human_adapter": 0.6
+        },
+        "prompt": "anthropomorphic portrait of the specific person from the human reference image, exact match to pose from the human reference image, exact match to facial identity, plain color background, seamlessly blending facial features, head traits, and surface textures from the second animal reference image onto the head and hair, hybrid creature, kemonomimi, high quality, photographic realism",
+        "negative_prompt": "separate animal, live animal, animal on arm, companion animal, extreme close-up, cropped, cut off head, zoomed in, out of frame, different face, changed identity, missing animal traits, wrong animal color, deformed face, bad anatomy, blurry, low quality, color distortion"
+    },
+    {
+        "timestamp": "2026-07-25 17:16:30",
+        "filename": "GenerateResult_cat/fusion_animal_0.5_human_0.4.jpg",
+        "animal_group": "cat",
+        "seed": 20260731,
+        "weights": {
+            "animal_adapter": 0.5,
+            "human_adapter": 0.4
+        },
+        "prompt": "anthropomorphic portrait of the specific person from the human reference image, exact match to pose from the human reference image, exact match to facial identity, plain color background, seamlessly blending facial features, head traits, and surface textures from the second animal reference image onto the head and hair, hybrid creature, kemonomimi, high quality, photographic realism",
+        "negative_prompt": "separate animal, live animal, animal on arm, companion animal, extreme close-up, cropped, cut off head, zoomed in, out of frame, different face, changed identity, missing animal traits, wrong animal color, deformed face, bad anatomy, blurry, low quality, color distortion"
+    },
+    {
+        "timestamp": "2026-07-25 17:16:38",
+        "filename": "GenerateResult_cat/fusion_animal_0.5_human_0.5.jpg",
+        "animal_group": "cat",
+        "seed": 20260731,
+        "weights": {
+            "animal_adapter": 0.5,
+            "human_adapter": 0.5
+        },
+        "prompt": "anthropomorphic portrait of the specific person from the human reference image, exact match to pose from the human reference image, exact match to facial identity, plain color background, seamlessly blending facial features, head traits, and surface textures from the second animal reference image onto the head and hair, hybrid creature, kemonomimi, high quality, photographic realism",
+        "negative_prompt": "separate animal, live animal, animal on arm, companion animal, extreme close-up, cropped, cut off head, zoomed in, out of frame, different face, changed identity, missing animal traits, wrong animal color, deformed face, bad anatomy, blurry, low quality, color distortion"
+    },
+    {
+        "timestamp": "2026-07-25 17:16:45",
+        "filename": "GenerateResult_cat/fusion_animal_0.5_human_0.6.jpg",
+        "animal_group": "cat",
+        "seed": 20260731,
+        "weights": {
+            "animal_adapter": 0.5,
+            "human_adapter": 0.6
+        },
+        "prompt": "anthropomorphic portrait of the specific person from the human reference image, exact match to pose from the human reference image, exact match to facial identity, plain color background, seamlessly blending facial features, head traits, and surface textures from the second animal reference image onto the head and hair, hybrid creature, kemonomimi, high quality, photographic realism",
+        "negative_prompt": "separate animal, live animal, animal on arm, companion animal, extreme close-up, cropped, cut off head, zoomed in, out of frame, different face, changed identity, missing animal traits, wrong animal color, deformed face, bad anatomy, blurry, low quality, color distortion"
+    },
+    {
+        "timestamp": "2026-07-25 17:16:52",
+        "filename": "GenerateResult_cat/fusion_animal_0.6_human_0.4.jpg",
+        "animal_group": "cat",
+        "seed": 20260731,
+        "weights": {
+            "animal_adapter": 0.6,
+            "human_adapter": 0.4
+        },
+        "prompt": "anthropomorphic portrait of the specific person from the human reference image, exact match to pose from the human reference image, exact match to facial identity, plain color background, seamlessly blending facial features, head traits, and surface textures from the second animal reference image onto the head and hair, hybrid creature, kemonomimi, high quality, photographic realism",
+        "negative_prompt": "separate animal, live animal, animal on arm, companion animal, extreme close-up, cropped, cut off head, zoomed in, out of frame, different face, changed identity, missing animal traits, wrong animal color, deformed face, bad anatomy, blurry, low quality, color distortion"
+    },
+    {
+        "timestamp": "2026-07-25 17:16:59",
+        "filename": "GenerateResult_cat/fusion_animal_0.6_human_0.5.jpg",
+        "animal_group": "cat",
+        "seed": 20260731,
+        "weights": {
+            "animal_adapter": 0.6,
+            "human_adapter": 0.5
+        },
+        "prompt": "anthropomorphic portrait of the specific person from the human reference image, exact match to pose from the human reference image, exact match to facial identity, plain color background, seamlessly blending facial features, head traits, and surface textures from the second animal reference image onto the head and hair, hybrid creature, kemonomimi, high quality, photographic realism",
+        "negative_prompt": "separate animal, live animal, animal on arm, companion animal, extreme close-up, cropped, cut off head, zoomed in, out of frame, different face, changed identity, missing animal traits, wrong animal color, deformed face, bad anatomy, blurry, low quality, color distortion"
+    },
+    {
+        "timestamp": "2026-07-25 17:17:07",
+        "filename": "GenerateResult_cat/fusion_animal_0.6_human_0.6.jpg",
+        "animal_group": "cat",
+        "seed": 20260731,
+        "weights": {
+            "animal_adapter": 0.6,
+            "human_adapter": 0.6
+        },
+        "prompt": "anthropomorphic portrait of the specific person from the human reference image, exact match to pose from the human reference image, exact match to facial identity, plain color background, seamlessly blending facial features, head traits, and surface textures from the second animal reference image onto the head and hair, hybrid creature, kemonomimi, high quality, photographic realism",
+        "negative_prompt": "separate animal, live animal, animal on arm, companion animal, extreme close-up, cropped, cut off head, zoomed in, out of frame, different face, changed identity, missing animal traits, wrong animal color, deformed face, bad anatomy, blurry, low quality, color distortion"
+    }
+]
